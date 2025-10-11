@@ -39,3 +39,6 @@ Designed and implemented a complete, end-to-end data engineering pipeline on the
 
 ![Architecture Diagram](images/Architecture%20Diagram.png)
 
+## Full Project Walkthrough
+For a comprehensive guide on the implementation and architecture of this project, check out the detailed blog post: [Azure Data Engineering Project 01](https://azuredataengineeringprojects.hashnode.dev/azure-data-engineering-project-01)
+
